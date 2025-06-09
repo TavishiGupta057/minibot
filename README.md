@@ -7,7 +7,7 @@ The project includes a simple **Flask-based web interface** for user interaction
 
  Features
 
--  General question-answering using [TinyLLaMA](https://huggingface.co/TinyLlama/TinyLlama-1.1B-Chat-v1.0)
+-  General question-answering using minillama
 -  Noise suppression via RNNoise CLI
 -  Source separation  using Demucs
 -  REST API endpoints for all functionalities
