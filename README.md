@@ -1,17 +1,17 @@
- MiniLLaMA Audio Chatbot
+  LLaMA 3 Chatbot (Offline) with Table-to-Text Summarization
+This project is an offline chatbot built using Meta's LLaMA 3 model (8B) and llama-cpp-python, with a Streamlit UI. In addition to general chatbot functionality, it can also convert tabular data into natural language summaries.
 
-This is a lightweight AI chatbot powered by **MiniLLaMA** for answering general queries.  
-It supports audio input processing with **RNNoise** for noise suppression and **Demucs** for source separation.  
-The project includes a simple **Flask-based web interface** for user interaction and REST API access.
+Features:
 
+💬 Offline chatbot using LLaMA 3 (8B Instruct).
 
- Features
+🧠 Summarizes tables in Markdown or CSV format into natural text.
 
--  General question-answering using minillama
--  Noise suppression via RNNoise CLI
--  Source separation  using Demucs
--  REST API endpoints for all functionalities
--  Web interface built with HTML + JS
+🔒 Private & fast — runs locally, no internet required after setup.
+
+🧊 Built with llama-cpp-python for efficient inference.
+
+🌐 Web interface powered by Streamlit.
 
 
 
