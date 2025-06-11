@@ -14,5 +14,12 @@ Features:
 🌐 Web interface powered by Streamlit.
 
 
+## 🔗 Download the LLaMA 3 Model
+
+This project requires a LLaMA 3 model in GGUF format. You can download a quantized version from Hugging Face:
+
+- [Meta LLaMA 3 8B Instruct - GGUF](https://huggingface.co/TheBloke/Llama-3-8B-Instruct-GGUF)
+
+After downloading, place the `.gguf` file here:
 
 
